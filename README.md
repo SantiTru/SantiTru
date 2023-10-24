@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 Student of Certificate of Higher Education in Design and Development of Web Applications  at @CPIFPAlanTuring
+
+![Banner_Github](https://github.com/SantiTru/SantiTru/assets/117385307/f221de8e-4806-4ebb-ba3f-44b41b04af9a)
+
+
 <!--
 **SantiTru/SantiTru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
